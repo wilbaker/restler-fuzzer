@@ -6,7 +6,6 @@ from __future__ import print_function
 import time
 import types
 import random
-random.seed(12345)
 import itertools
 import functools, operator
 import collections
